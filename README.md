@@ -61,6 +61,7 @@ import cv2
 
 ->-> Navigate to the "ros_ws" folder under the "Phase_4" folder inside "proj3_group26_ros_python" folder, right click and select open terminal.
 	*** use 'python3' instead of 'python' in the terminal if using Linux based OS ***
+	
 	-------------------------TERMINAL 1--------------------------------------------------------------------------------------------
 	*** Run the command "roscore" 
 	
